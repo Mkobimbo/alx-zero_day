@@ -1,1 +1,1 @@
-powerfu full stack SE
+powerful full stack SE README file
