@@ -1,1 +1,1 @@
-My first readme. About got and traversing the first day at alx
+My first readme. About git and traversing the first day at alx.
